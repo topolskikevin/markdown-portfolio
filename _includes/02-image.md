@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Baisc Image](https://octodex.github.com/images/original.png)
+
+Octo!
